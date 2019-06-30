@@ -8,6 +8,3 @@ required.
 Sample calls are made in the Main function of the code to give an idea about the functionality of the code.
 
 3). Comments are properly given whereever seem necessary
-
-4). Data Model and Document containing the MVP of the product is sent through the email containing the link of GitHub repository.
-Please go through that as well to get the better understanding of thinking methodology behind this code and design
