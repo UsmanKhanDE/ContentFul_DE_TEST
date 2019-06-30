@@ -1,0 +1,14 @@
+twitter_keys:
+         Twitter_consumer_key : 't8bhToaY4LevkBjvS355A9pfu'
+         Twitter_consumer_secret : '2315cTZYr7OQmoDytBWpuothCAakOYER7pE6fF3ZLUXeAC8rkz'
+         Twitter_access_token : '882165583911038976-XgiJxECv0cCsg2Ech6HmzPuzsD1zILp'
+         Twitter_access_token_secret : 'e9puaP5NBK0JWjEUXCE214yc2CXpkgC1zPMzmgDs5ZLc5'
+
+postgres_credentials:
+         Hostname : '127.0.0.1'
+         Port : '5432'
+         Username: 'postgres'
+         Password : 'psycopg2'
+         DatabaseName: 'postgres'
+
+
